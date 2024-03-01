@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\compressor.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\compressor.dir/objects.a @CMakeFiles\compressor.dir\objects1.rsp
+C:\msys64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\compressor.dir/objects.a -Wl,--no-whole-archive -o compressor.exe -Wl,--out-implib,libcompressor.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\compressor.dir\linkLibs.rsp

@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\PROJECT-UI-01.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\PROJECT-UI-01.dir/objects.a @CMakeFiles\PROJECT-UI-01.dir\objects1.rsp
+C:\msys64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\PROJECT-UI-01.dir/objects.a -Wl,--no-whole-archive -o PROJECT-UI-01.exe -Wl,--out-implib,libPROJECT-UI-01.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\PROJECT-UI-01.dir\linkLibs.rsp

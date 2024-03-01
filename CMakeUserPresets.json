@@ -1,0 +1,10 @@
+{
+    "version": 4,
+    "vendor": {
+        "conan": {}
+    },
+    "include": [
+        "C:\\Users\\Mahros\\Desktop\\Active Projects\\PROJECT-UI-01\\build\\generators\\CMakePresets.json",
+        "C:\\Users\\Mahros\\Desktop\\Active Projects\\PROJECT-UI-01\\build\\build\\generators\\CMakePresets.json"
+    ]
+}

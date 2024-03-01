@@ -1,0 +1,3 @@
+C:/Users/Mahros/Desktop/Active Projects/PROJECT-UI-01/build/CMakeFiles/compressor.dir
+C:/Users/Mahros/Desktop/Active Projects/PROJECT-UI-01/build/CMakeFiles/edit_cache.dir
+C:/Users/Mahros/Desktop/Active Projects/PROJECT-UI-01/build/CMakeFiles/rebuild_cache.dir
